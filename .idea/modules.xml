@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.Sistemas de Funcionarios/1.Sistemas de Funcionarios.iml" filepath="$PROJECT_DIR$/1.Sistemas de Funcionarios/1.Sistemas de Funcionarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. Sistema de Cadastro/10. Sistema de Cadastro.iml" filepath="$PROJECT_DIR$/10. Sistema de Cadastro/10. Sistema de Cadastro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. Sistema de Pagamentos/11. Sistema de Pagamentos.iml" filepath="$PROJECT_DIR$/11. Sistema de Pagamentos/11. Sistema de Pagamentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12. Sistema de Transportadora/12. Sistema de Transportadora.iml" filepath="$PROJECT_DIR$/12. Sistema de Transportadora/12. Sistema de Transportadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13. Sistema de Funcionarios com Bonus/13. Sistema de Funcionarios com Bonus.iml" filepath="$PROJECT_DIR$/13. Sistema de Funcionarios com Bonus/13. Sistema de Funcionarios com Bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14. Sistema de Biblioteca com Usuarios/14. Sistema de Biblioteca com Usuarios.iml" filepath="$PROJECT_DIR$/14. Sistema de Biblioteca com Usuarios/14. Sistema de Biblioteca com Usuarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15. Sistema de Veiclos para uma Locadora/15. Sistema de Veiclos para uma Locadora.iml" filepath="$PROJECT_DIR$/15. Sistema de Veiclos para uma Locadora/15. Sistema de Veiclos para uma Locadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16. Sistema de Funcionarios de uma Empresa/16. Sistema de Funcionarios de uma Empresa.iml" filepath="$PROJECT_DIR$/16. Sistema de Funcionarios de uma Empresa/16. Sistema de Funcionarios de uma Empresa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.Sistema de Animais/17.Sistema de Animais.iml" filepath="$PROJECT_DIR$/17.Sistema de Animais/17.Sistema de Animais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18.Sistemas de Pedidos/18.Sistemas de Pedidos.iml" filepath="$PROJECT_DIR$/18.Sistemas de Pedidos/18.Sistemas de Pedidos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/19-08.iml" filepath="$PROJECT_DIR$/.idea/19-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Aluno e Professor/2.Aluno e Professor.iml" filepath="$PROJECT_DIR$/2.Aluno e Professor/2.Aluno e Professor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Veiculos/4.Veiculos.iml" filepath="$PROJECT_DIR$/4.Veiculos/4.Veiculos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.Produtos de uma Loja/5.Produtos de uma Loja.iml" filepath="$PROJECT_DIR$/5.Produtos de uma Loja/5.Produtos de uma Loja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.Conta Bancaria/6.Conta Bancaria.iml" filepath="$PROJECT_DIR$/6.Conta Bancaria/6.Conta Bancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.Sistema Escolar/7.Sistema Escolar.iml" filepath="$PROJECT_DIR$/7.Sistema Escolar/7.Sistema Escolar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8.Funcionario por Categoria/8.Funcionario por Categoria.iml" filepath="$PROJECT_DIR$/8.Funcionario por Categoria/8.Funcionario por Categoria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Biblioteca/Biblioteca.iml" filepath="$PROJECT_DIR$/Biblioteca/Biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcionario/Funcionario.iml" filepath="$PROJECT_DIR$/Funcionario/Funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sistema de Transportadora/Sistema de Transportadora.iml" filepath="$PROJECT_DIR$/Sistema de Transportadora/Sistema de Transportadora.iml" />
+    </modules>
+  </component>
+</project>
